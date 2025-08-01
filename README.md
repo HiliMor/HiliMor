@@ -5,4 +5,4 @@ I work on random projects on my free time in order to learn, and strive to be be
 
 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,py,java,html,css,react,js&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,cs,dotnet,py,java,html,css,react,js&perline=5)](https://skillicons.dev)
