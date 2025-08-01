@@ -1,7 +1,8 @@
 <h1 align="center">Hili Mor</h1>
 
-Hey👋🏻 I'm Hili. I'm a computer science student, and interested in development.
-I work on random projects on my free time in order to learn, and strive to be better every day!
+Hey👋🏻 I'm a computer science student and a development intern with a strong interest in software engineering.
+In my spare time, I work on personal projects to expand my skills and deepen my understanding of different technologies. 
+I'm committed to continuous learning and professional growth.
 
 My Skills:
 
