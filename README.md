@@ -1,8 +1,6 @@
 <h1 align="center">Hili Mor</h1>
 
-Hey👋🏻 I'm a computer science student and a development intern with a strong interest in software engineering.
-In my spare time, I work on personal projects to expand my skills and deepen my understanding of different technologies. 
-I'm committed to continuous learning and professional growth.
+Hey👋🏻 I am a full-Stack Developer working on internal enterprise tools and data-driven systems. Currently part of a core team developing complex document management platforms, I specialize in bridging the gap between legacy infrastructures and modern tech stacks. From creating seamless Office integrations to implementing AI-driven automation and data retrieval, I enjoy solving the technical puzzles that come with real-world, high-impact products.
 
 My Skills:
 
