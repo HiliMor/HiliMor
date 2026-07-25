@@ -16,13 +16,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate contribution snakes
+      - name: Generate a high-contrast contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#2EA043&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39D353
+            dist/github-contribution-grid-snake.svg?color_snake=#39D353&color_dots=#8C959F,#B7F7C5,#7EE787,#3FB950,#1A7F37
 
       - name: Publish snakes to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
