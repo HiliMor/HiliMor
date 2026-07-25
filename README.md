@@ -61,11 +61,7 @@ It explores dependency-injection lifetimes, concurrency, rate limiting, observab
 
 ---
 
-<img
-  src="https://raw.githubusercontent.com/HiliMor/HiliMor/output/github-contribution-grid-snake.svg"
-  width="100%"
-  alt="Animated contribution snake"
->
+![Animated contribution snake](https://raw.githubusercontent.com/HiliMor/HiliMor/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <sub>Building with AI, curiosity, and a lot of iteration.</sub>
