@@ -24,24 +24,6 @@ Customers can book and pay online, guides can manage their tours, and the busine
 
 <br>
 
-### Picture House
-
-**Movie recommendations that start with a mood, an idea, or a film you already love.**
-
-A deployed hybrid recommender built from MovieLens 25M, combining text search, collaborative filtering, genome tags, and genre similarity.
-
-[Try it ↗](https://movie-recommendations.up.railway.app) · [How it works ↗](https://github.com/HiliMor/movie-recommender)
-
-<a href="https://github.com/HiliMor/movie-recommender">
-  <img
-    src="https://raw.githubusercontent.com/HiliMor/movie-recommender/main/demo/demo.gif"
-    width="100%"
-    alt="Picture House movie recommender in use"
-  >
-</a>
-
-<br>
-
 ### Skógafoss — WebGPU Water Study
 
 **An interactive real-time 3D interpretation of Skógafoss, Iceland.**
@@ -60,20 +42,21 @@ A browser-based landscape built with Three.js and WebGPU: GPU-simulated spray, a
 
 <br>
 
-### Order Processing Simulator
+### Picture House
 
-**A small .NET API built to understand what happens when many requests arrive at once.**
+**Movie recommendations that start with a mood, an idea, or a film you already love.**
 
-It explores dependency-injection lifetimes, concurrency, rate limiting, observability, and the trade-offs behind production-ready APIs.
+A deployed hybrid recommender built from MovieLens 25M, combining text search, collaborative filtering, genome tags, and genre similarity.
 
-[Read the code and decisions ↗](https://github.com/HiliMor/order-processing-api-v2)
+[Try it ↗](https://movie-recommendations.up.railway.app) · [How it works ↗](https://github.com/HiliMor/movie-recommender)
 
----
-
-### Other experiments
-
-[Stroke prediction and data leakage](https://github.com/HiliMor/stroke-prediction-project) ·
-[PDF Merger](https://github.com/HiliMor/PDF-Merger)
+<a href="https://github.com/HiliMor/movie-recommender">
+  <img
+    src="https://raw.githubusercontent.com/HiliMor/movie-recommender/main/demo/demo.gif"
+    width="100%"
+    alt="Picture House movie recommender in use"
+  >
+</a>
 
 <br>
 
