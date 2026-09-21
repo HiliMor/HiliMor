@@ -42,6 +42,24 @@ A deployed hybrid recommender built from MovieLens 25M, combining text search, c
 
 <br>
 
+### Skógafoss — WebGPU Water Study
+
+**An interactive real-time 3D interpretation of Skógafoss, Iceland.**
+
+A browser-based landscape built with Three.js and WebGPU: GPU-simulated spray, a reflective river, detailed terrain, five viewpoints, and four changing skies. The original WebGL2 scene remains available for comparison.
+
+[Live demo ↗](https://hilimor.github.io/skogafoss-waterfall/) · [Source and process ↗](https://github.com/HiliMor/skogafoss-waterfall)
+
+<a href="https://hilimor.github.io/skogafoss-waterfall/">
+  <img
+    src="https://raw.githubusercontent.com/HiliMor/skogafoss-waterfall/main/docs/media/skogafoss-twitter-cover.jpg"
+    width="100%"
+    alt="Skógafoss waterfall rendered in the browser with WebGPU"
+  >
+</a>
+
+<br>
+
 ### Order Processing Simulator
 
 **A small .NET API built to understand what happens when many requests arrive at once.**
