@@ -16,9 +16,9 @@ Customers can book and pay online, guides can manage their tours, and the busine
 
 <a href="https://github.com/HiliMor/ez-raider-booking-platform">
   <img
-    src="https://raw.githubusercontent.com/HiliMor/ez-raider-booking-platform/main/demo/management-dashboard-preview.png"
+    src="https://raw.githubusercontent.com/HiliMor/ez-raider-booking-platform/main/demo/segs-home-scroll.gif"
     width="100%"
-    alt="SEGS booking platform in use"
+    alt="Animated scroll through the SEGS booking platform homepage"
   >
 </a>
 
