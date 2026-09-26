@@ -1,6 +1,8 @@
 # Hili Mor
 
-Builder using AI to turn ideas into useful, working products.
+I build products, websites, and visual experiences, connecting development, design, and AI-assisted creative production.
+
+[Portfolio ↗](https://hili.bio/) · [Work with me on Contra ↗](https://contra.com/hili_m6nhtbbp)
 
 ---
 
@@ -20,6 +22,20 @@ Customers can book and pay online, guides can manage their tours, and the busine
     width="100%"
     alt="Animated scroll through the SEGS booking platform homepage"
   >
+</a>
+
+<br>
+
+### Velvet Army — Digital & Creative Direction
+
+**An editorial jewelry website and a visual world built around contrast.**
+
+Web design and development, AI-assisted campaign imagery, and a short brand film. The magazine is the lead direction, with Terra and a coastal concept exploring two other expressions of the brand.
+
+[Explore the project ↗](https://hili.bio/work/velvet-army/) · [Project notes ↗](https://github.com/HiliMor/velvet-army-showcase)
+
+<a href="https://hili.bio/work/velvet-army/">
+  <img src="https://raw.githubusercontent.com/HiliMor/velvet-army-showcase/main/media/magazine-desktop.jpg" width="100%" alt="Velvet Army editorial website and creative direction by Hili Mor">
 </a>
 
 <br>
